@@ -13,3 +13,13 @@ This is my first Git and GitHub practice project.
 
 ## Author
 Maria Adeel
+
+## Learning progress
+This projects is a part os my git & github learning journey.
+
+Topic covered:
+Git basic
+Branching
+Merging
+Pull request
+Github action

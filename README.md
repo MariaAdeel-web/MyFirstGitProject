@@ -23,3 +23,16 @@ Branching
 Merging
 Pull request
 Github action
+
+## Interactive rebase practice ##
+
+thjis section is for learning interactive rebase.
+This practice helps keep commit history clean and professional.q
+
+### Cherry-pick practice 
+
+this section demonstrates how git cherry-pick works.
+
+Cherry-pick makes it easy to apply a specific commit.
+
+this line is added for cherry-pick practice.

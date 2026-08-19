@@ -36,3 +36,4 @@ this section demonstrates how git cherry-pick works.
 Cherry-pick makes it easy to apply a specific commit.
 
 this line is added for cherry-pick practice.
+day 26 branch protection test.
